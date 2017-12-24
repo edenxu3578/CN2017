@@ -1,0 +1,11 @@
+SENDER_ADDR,localhost,50003
+RECEIVER_ADDR,localhost,50001
+AGENT_ADDR,localhost,50002
+PACKET_SIZE,1024
+TIME_OUT_BOUND,1.0
+BUFFER_SIZE,32
+DROP_PROB,0.01
+
+#   SENDER_ADDR,    ip, port
+#   RECEIVER_ADDR,  ip, port
+#   AGENT_ADDR,     ip, port
