@@ -29,3 +29,5 @@ Temporary Items
 *.pages
 *.zip
 *.pdf
+media/*
+test/*
